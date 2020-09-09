@@ -22,12 +22,12 @@ int main (void){
     printf("Your letter grade for CMPSC 131 is C+.");
   }
   else if (grade >=70.0){
-    printf("Your letter grade for CMPSC 131 is C");
+    printf("Your letter grade for CMPSC 131 is C.");
   }
   else if (grade >=60.0){
-    printf("Your letter grade for CMPSC 131 is D");
+    printf("Your letter grade for CMPSC 131 is D.");
   }
   else if (grade <60){
-    printf("Your letter grade for CMPSC 131 is F");
+    printf("Your letter grade for CMPSC 131 is F.");
   }
 }
